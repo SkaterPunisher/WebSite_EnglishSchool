@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66eff654.css",
+    "main.js": "/static/js/main.f77ad49d.js",
+    "static/media/notPage.png": "/static/media/notPage.650c99e4ead08bbb3917.png",
+    "static/media/ioda.png": "/static/media/ioda.29711b3c6fca8acd35fb.png",
+    "static/media/female.png": "/static/media/female.b87ea97043e8659d4f20.png",
+    "static/media/hermaphrodite.png": "/static/media/hermaphrodite.cf33042651b5c582128d.png",
+    "static/media/Logo.png": "/static/media/Logo.f28eb139b15b8a6215d7.png",
+    "static/media/male.png": "/static/media/male.52a7c325e12edcfb4d3d.png",
+    "index.html": "/index.html",
+    "main.66eff654.css.map": "/static/css/main.66eff654.css.map",
+    "main.f77ad49d.js.map": "/static/js/main.f77ad49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66eff654.css",
+    "static/js/main.f77ad49d.js"
+  ]
+}

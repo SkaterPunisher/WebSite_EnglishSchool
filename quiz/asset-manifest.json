@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03c08088.css",
+    "main.js": "/static/js/main.8c3216ad.js",
+    "static/media/Winter.jpg": "/static/media/Winter.47865724c9c80475b0ad.jpg",
+    "static/media/Bathroom.png": "/static/media/Bathroom.802b9ff30ee1e511dc9b.png",
+    "static/media/Alphatablet.jpeg": "/static/media/Alphatablet.8e08523c8e0c97c03c72.jpeg",
+    "static/media/3Bols.png": "/static/media/3Bols.4b50eeafd01f5a47638b.png",
+    "static/media/Eye.jpeg": "/static/media/Eye.2e53c08ed575b56cb1e7.jpeg",
+    "static/media/BeQuiet.png": "/static/media/BeQuiet.bbf481a314dac6c88ed4.png",
+    "static/media/Rabbit.jpeg": "/static/media/Rabbit.f453d96e47b5e3a14e95.jpeg",
+    "static/media/WhiteBoard.jpeg": "/static/media/WhiteBoard.157380eb75b7d59378be.jpeg",
+    "static/media/cat.jpeg": "/static/media/cat.a661987792399cff9f94.jpeg",
+    "static/media/Hippo.jpeg": "/static/media/Hippo.d2dfd57e113b2fa1ec56.jpeg",
+    "static/media/Numbers.jpg": "/static/media/Numbers.53b8bdfd277a0e9ed93f.jpg",
+    "static/media/redSquare.jpeg": "/static/media/redSquare.8040bcc32c42b2466e5a.jpeg",
+    "static/media/Train.jpeg": "/static/media/Train.c6001b4e96d98b52f9fc.jpeg",
+    "static/media/BackPack.jpeg": "/static/media/BackPack.81ebfd8051d2a7d2488e.jpeg",
+    "static/media/Lion.jpeg": "/static/media/Lion.1df6b01b82c3a7394900.jpeg",
+    "static/media/Mouse.jpeg": "/static/media/Mouse.f1cb585157bfc03a72ac.jpeg",
+    "static/media/IceCream.webp": "/static/media/IceCream.7efaa1e17ce27cedb937.webp",
+    "static/media/Pen.jpeg": "/static/media/Pen.c3611c4575573dbccc3b.jpeg",
+    "static/media/Chair.jpeg": "/static/media/Chair.d5bc68486e0afdebd245.jpeg",
+    "index.html": "/index.html",
+    "main.03c08088.css.map": "/static/css/main.03c08088.css.map",
+    "main.8c3216ad.js.map": "/static/js/main.8c3216ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c08088.css",
+    "static/js/main.8c3216ad.js"
+  ]
+}
