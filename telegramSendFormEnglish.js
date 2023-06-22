@@ -1,5 +1,5 @@
-const TOKEN = process.env.TOKEN
-const CHAT_ID = process.env.CHAT_ID;
+const TOKEN = "5649030951:AAG-FKF_jtI0DuXoA7WL_ITJ1znXTm5PIpk";
+const CHAT_ID = "550809095";
 const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
 const formTelegram = document.querySelectorAll(".telegramForm");
